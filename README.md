@@ -1,5 +1,5 @@
 
-# Project: Charging System
+# Project: Charging System (Task 2)
 
 ## Introduction
 This project is a Charging System that manages reservations for charging electric and solar-powered vehicles at charging stations. The system includes annotations and classes for users, administrators, charging stations, and logging energy-related information.
