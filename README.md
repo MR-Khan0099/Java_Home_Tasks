@@ -30,5 +30,8 @@ The project consists of the following packages and classes:
 1. Just **Run** the `Main.java` for the points 3 and 4.
 2. Just **Run** the `ChargingSystem.java` check the reservation systems.
 
+## Important Notes To consider:
+- It is a **madatory** to change the path of the moved file to your own path. You have to edit it in the `Main.java` class, this line 93
+
 
 
