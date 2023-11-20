@@ -27,6 +27,8 @@ The project consists of the following packages and classes:
 - **UserClass:** Represents users, annotated with `UserDetails`.
 
 ## How to Run the Project
+1. Just **Run** the `Main.c` for the points 3 and 4.
+2. Just **Run** the `ChargingSystem.c` check the reservation systems.
 
 
 
